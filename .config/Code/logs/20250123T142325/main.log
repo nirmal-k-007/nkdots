@@ -1,0 +1,8 @@
+2025-01-23 14:23:26.056 [info] update#setState idle
+2025-01-23 14:23:56.014 [info] update#setState checking for updates
+2025-01-23 14:23:56.121 [error] [network] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba - error undefined net::ERR_NETWORK_CHANGED
+2025-01-23 14:23:56.122 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-23 14:23:56.123 [info] update#setState idle
+2025-01-23 14:26:31.273 [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Server">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Server – ~/AndroidStudioProjects/Server/app/src/main/java/com/example/server/MainActivity.java" opened="true" projectWorkspaceId="2rJGLcdZGIRERWvyhbSgqYgO6xT">
+              <option name="activationTimestamp" value="1736276700669" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="3" y="3" width="1434" height="894" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1736269710001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/Server" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+Jan 22, 2025 9:05:02 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic
+Jan 22, 2025 9:05:02 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
+Jan 22, 2025 9:05:14 PM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start
+INFO: Starting com.microsoft.java.debug.plugin
+Jan 22, 2025 9:06:22 PM com.microsoft.java.debug.core.UsageDataSession recordInfo
+INFO: launch debug info
+Jan 22, 2025 9:06:23 PM com.microsoft.java.debug.core.UsageDataSession submitUsageData
+INFO: session usage data summary

@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Server" value="true" />
+        <entry key="$USER_HOME$/Project/Encrypto_client" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects" />
+        <option value="$USER_HOME$/Project" />
+      </list>
+    </option>
+  </component>
+</application>

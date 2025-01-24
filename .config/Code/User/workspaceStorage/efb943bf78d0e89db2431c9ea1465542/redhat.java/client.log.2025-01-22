@@ -1,0 +1,165 @@
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2025-01-22 21:00:46.974'
+}
+{
+  message: 'Starting Java server with: /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/jre/21.0.5-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/lombok/lombok-1.18.34.jar -jar /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/nk/.config/Code/User/globalStorage/redhat.java/1.39.0/config_ss_linux -data /home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2025-01-22 21:00:46.987'
+}
+{
+  message: 'Starting Java server with: /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/jre/21.0.5-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/lombok/lombok-1.18.34.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/nk/.config/Code/User/globalStorage/redhat.java/1.39.0/config_linux -data /home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2025-01-22 21:00:47.117'
+}
+{
+  message: 'Jan 22, 2025 9:00:47 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:00:48.029'
+}
+{
+  message: 'Jan 22, 2025 9:00:48 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:00:48.032'
+}
+{
+  message: '[Error - 9:00:48 PM] Jan 22, 2025, 9:00:48 PM An internal error occurred during: "Initialize After Load".\n' +
+    'Cannot invoke "org.osgi.framework.Bundle.start(int)" because the return value of "org.eclipse.core.runtime.Platform.getBundle(String)" is null\n' +
+    'java.lang.NullPointerException: Cannot invoke "org.osgi.framework.Bundle.start(int)" because the return value of "org.eclipse.core.runtime.Platform.getBundle(String)" is null\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.startBundle(BundleUtils.java:360)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin$1.run(JavaLanguageServerPlugin.java:196)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:00:48.829'
+}
+{
+  message: 'Jan 22, 2025 9:01:06 PM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start\n' +
+    'INFO: Starting com.microsoft.java.debug.plugin\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:06.590'
+}
+{
+  message: 'Jan 22, 2025 9:01:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 166\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:53.205'
+}
+{
+  message: 'Jan 22, 2025 9:01:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 167\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:53.652'
+}
+{
+  message: 'Jan 22, 2025 9:01:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 168\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:53.653'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 169\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.160'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 170\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.161'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 172\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.162'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 173\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.667'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 174\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.668'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 175\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.671'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 179\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.686'
+}
+{
+  message: 'Jan 22, 2025 9:01:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\n' +
+    'WARNING: Unmatched cancel notification for request id 178\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:01:54.687'
+}
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2025-01-22 21:05:01.458'
+}
+{
+  message: 'Starting Java server with: /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/jre/21.0.5-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/lombok/lombok-1.18.34.jar -jar /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/nk/.config/Code/User/globalStorage/redhat.java/1.39.0/config_ss_linux -data /home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2025-01-22 21:05:01.469'
+}
+{
+  message: 'Starting Java server with: /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/jre/21.0.5-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/lombok/lombok-1.18.34.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /home/nk/.config/Code/User/globalStorage/redhat.java/1.39.0/config_linux -data /home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2025-01-22 21:05:01.580'
+}
+{
+  message: 'Jan 22, 2025 9:05:02 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n' +
+    'Jan 22, 2025 9:05:02 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:05:02.398'
+}
+{
+  message: '[Error - 9:05:03 PM] Jan 22, 2025, 9:05:03 PM An internal error occurred during: "Initialize After Load".\n' +
+    'Cannot invoke "org.osgi.framework.Bundle.start(int)" because the return value of "org.eclipse.core.runtime.Platform.getBundle(String)" is null\n' +
+    'java.lang.NullPointerException: Cannot invoke "org.osgi.framework.Bundle.start(int)" because the return value of "org.eclipse.core.runtime.Platform.getBundle(String)" is null\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.startBundle(BundleUtils.java:360)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin$1.run(JavaLanguageServerPlugin.java:196)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:05:03.250'
+}
+{
+  message: 'Jan 22, 2025 9:05:14 PM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start\n' +
+    'INFO: Starting com.microsoft.java.debug.plugin\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:05:14.681'
+}
+{
+  message: 'Jan 22, 2025 9:06:22 PM com.microsoft.java.debug.core.UsageDataSession recordInfo\n' +
+    'INFO: launch debug info\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:06:22.626'
+}
+{
+  message: 'Jan 22, 2025 9:06:23 PM com.microsoft.java.debug.core.UsageDataSession submitUsageData\n' +
+    'INFO: session usage data summary\n',
+  level: 'info',
+  timestamp: '2025-01-22 21:06:23.433'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 286, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2025-01-22 21:22:45.369'
+}

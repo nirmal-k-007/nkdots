@@ -1,0 +1,6 @@
+{
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": false,
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open"
+}

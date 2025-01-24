@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Server">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Server – MainActivity.java [Server.app.main]" projectWorkspaceId="2rJGLcdZGIRERWvyhbSgqYgO6xT">
+              <option name="activationTimestamp" value="1737376336384" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="6" y="6" width="2868" height="1788" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1737374966001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/Encrypto_client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ClientApp – RegisterActivity.java [ClientApp.app.main]" opened="true" projectWorkspaceId="2rZrvol5MXiVLo3tBcoZiIHILok">
+              <option name="activationTimestamp" value="1737729007693" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="6" y="6" width="2868" height="1740" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1737376337391" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Project/Encrypto_client" />
+  </component>
+</application>

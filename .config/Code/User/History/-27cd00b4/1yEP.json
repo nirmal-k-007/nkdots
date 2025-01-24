@@ -1,0 +1,5 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.editor.dragToOpenWindow": false,
+    "window.commandCenter": false
+}

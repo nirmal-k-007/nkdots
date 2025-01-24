@@ -1,0 +1,118 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1736271254335" />
+    </e>
+    <e n="$Delete">
+      <i c="3" l="1736270477569" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1736271255437" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1736275376478" />
+    </e>
+    <e n="Android.BuildApk">
+      <i c="1" l="1736272434285" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="225" l="1736276376711" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="27" l="1736276206134" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1736276371482" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1736276372290" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1736271511545" />
+    </e>
+    <e n="EditorDown">
+      <i c="79" l="1736275334609" />
+    </e>
+    <e n="EditorEnter">
+      <i c="19" l="1736276365605" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1736271737408" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1736271534047" />
+    </e>
+    <e n="EditorPaste">
+      <i c="15" l="1736276374521" />
+    </e>
+    <e n="EditorRight">
+      <i c="33" l="1736276198137" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1736275263824" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="2" l="1736270275556" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1736271570032" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1736270518075" />
+    </e>
+    <e n="GoogleLoginV2.LoginService">
+      <i c="1" l="1736270106277" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1736270281527" />
+    </e>
+    <e n="Run">
+      <i c="7" l="1736276379225" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1736270098536" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1736270287383" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1736270289159" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="1" l="1736270515859" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1736276177473" />
+    </e>
+    <e n="Switcher">
+      <i c="2" l="1736274108702" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1736269666770" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1736270172482" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="1" l="1736274109125" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1736276000160" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="12" l="1736276044770" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1736272425779" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="6" l="1736276118810" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1736269745152" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1736270533272" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,154 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1736780369147" />
+    </e>
+    <e n="$SelectAll">
+      <i c="7" l="1737732289759" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1736779215435" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="5" l="1736780461650" />
+    </e>
+    <e n="DatabaseView.DeactivateAction">
+      <i c="1" l="1736780438499" />
+    </e>
+    <e n="DatabaseView.DropAction">
+      <i c="1" l="1736780443956" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="1" l="1736780345579" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="365" l="1737732483129" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="40" l="1737732349536" />
+    </e>
+    <e n="EditorCopy">
+      <i c="15" l="1737732304294" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1737376070799" />
+    </e>
+    <e n="EditorDown">
+      <i c="38" l="1737732483579" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1737732465715" />
+    </e>
+    <e n="EditorEnter">
+      <i c="56" l="1737732349569" />
+    </e>
+    <e n="EditorLeft">
+      <i c="159" l="1737582355166" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="2" l="1737581924206" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1737375887180" />
+    </e>
+    <e n="EditorPaste">
+      <i c="9" l="1737583956669" />
+    </e>
+    <e n="EditorRight">
+      <i c="156" l="1737732469901" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="7" l="1737375884992" />
+    </e>
+    <e n="EditorTab">
+      <i c="11" l="1737732342153" />
+    </e>
+    <e n="EditorUp">
+      <i c="42" l="1737732483951" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="2" l="1737645544280" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="2" l="1737645547212" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1737643399229" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1737645464453" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="3" l="1737732444724" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="28" l="1737732040850" />
+    </e>
+    <e n="MethodDown">
+      <i c="1" l="1737732467885" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="5" l="1737732486277" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="1" l="1737732485750" />
+    </e>
+    <e n="NewClass">
+      <i c="4" l="1737583739126" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1737645294626" />
+    </e>
+    <e n="Run">
+      <i c="34" l="1737732489019" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1737376027360" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1737732261880" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1737732106660" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1737370227319" />
+    </e>
+    <e n="Stop">
+      <i c="22" l="1737732402885" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1736778723093" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
+      <i c="1" l="1736780454702" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="4" l="1736780464279" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1737643409968" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1736870308960" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1736778544070" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="7" l="1737732219233" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1736870324844" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="31" l="1737645481390" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="6" l="1737645291598" />
+    </e>
+    <e n="com.intellij.profiler.ui.ExpandablePanel$MyCollapseAction">
+      <i c="1" l="1736778813083" />
+    </e>
+  </component>
+</application>

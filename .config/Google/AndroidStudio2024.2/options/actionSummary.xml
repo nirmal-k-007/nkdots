@@ -1,0 +1,310 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1736883612103" />
+    </e>
+    <e n="$Cut">
+      <i c="1" l="1736588239824" />
+    </e>
+    <e n="$Delete">
+      <i c="14" l="1736883597337" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1736883614920" />
+    </e>
+    <e n="$Redo">
+      <i c="200" l="1736769394020" />
+    </e>
+    <e n="$SelectAll">
+      <i c="25" l="1736771309359" />
+    </e>
+    <e n="$Undo">
+      <i c="250" l="1736887975644" />
+    </e>
+    <e n="Adtui.ZoomInAction">
+      <i c="9" l="1736882583811" />
+    </e>
+    <e n="Adtui.ZoomToActualAction">
+      <i c="2" l="1736601890126" />
+    </e>
+    <e n="Adtui.ZoomToFitAction">
+      <i c="2" l="1736601890720" />
+    </e>
+    <e n="Android.BuildApk">
+      <i c="9" l="1737728410686" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="13" l="1736772095019" />
+    </e>
+    <e n="DeveloperServices.ConnectionAssistant">
+      <i c="1" l="1736882308725" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1736331635783" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2523" l="1737386186808" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="426" l="1736889255755" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="1" l="1736590595156" />
+    </e>
+    <e n="EditorCopy">
+      <i c="97" l="1737376022976" />
+    </e>
+    <e n="EditorCut">
+      <i c="22" l="1736889242400" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1736770445128" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1736289437134" />
+    </e>
+    <e n="EditorDown">
+      <i c="340" l="1736889255545" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="315" l="1736885546739" />
+    </e>
+    <e n="EditorEnter">
+      <i c="393" l="1736889247928" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="3" l="1736671280606" />
+    </e>
+    <e n="EditorLeft">
+      <i c="631" l="1736888965012" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="27" l="1736947131321" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="7" l="1736770989687" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="2" l="1736770683410" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="7" l="1736883406079" />
+    </e>
+    <e n="EditorMoveToPageBottom">
+      <i c="6" l="1736291383112" />
+    </e>
+    <e n="EditorMoveToPageTop">
+      <i c="6" l="1736291382255" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="8" l="1736882798787" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="3" l="1736593953316" />
+    </e>
+    <e n="EditorPageDownWithSelection">
+      <i c="1" l="1736291356462" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="3" l="1736593954122" />
+    </e>
+    <e n="EditorPageUpWithSelection">
+      <i c="1" l="1736291355900" />
+    </e>
+    <e n="EditorPaste">
+      <i c="160" l="1736972309690" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="34" l="1736882797637" />
+    </e>
+    <e n="EditorRight">
+      <i c="879" l="1736889116826" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="201" l="1736772320476" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="4" l="1736592092456" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="5" l="1736592092049" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="2" l="1736883109304" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1736335294032" />
+    </e>
+    <e n="EditorTab">
+      <i c="95" l="1736888030277" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1736369404594" />
+    </e>
+    <e n="EditorUp">
+      <i c="132" l="1736886017720" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="343" l="1737375511260" />
+    </e>
+    <e n="Find">
+      <i c="12" l="1737390400781" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1736884355557" />
+    </e>
+    <e n="Generate">
+      <i c="5" l="1736601383051" />
+    </e>
+    <e n="GoogleLoginV2.LoginService">
+      <i c="1" l="1736767071965" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="4" l="1737390420225" />
+    </e>
+    <e n="GotoNextError">
+      <i c="1" l="1736291347692" />
+    </e>
+    <e n="GotoSuperMethod">
+      <i c="5" l="1736289425979" />
+    </e>
+    <e n="MethodDown">
+      <i c="6" l="1736592097202" />
+    </e>
+    <e n="MethodUp">
+      <i c="6" l="1736592096880" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="2" l="1737375001996" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="42" l="1736886109366" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="6" l="1736886110610" />
+    </e>
+    <e n="NewClass">
+      <i c="6" l="1736882548209" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1736777645439" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1737376316112" />
+    </e>
+    <e n="OverrideMethods">
+      <i c="5" l="1736601384691" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1736778953930" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1736947211801" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1736331427598" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1736331273272" />
+    </e>
+    <e n="Replace">
+      <i c="3" l="1736779012473" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="18" l="1737376438130" />
+    </e>
+    <e n="Run">
+      <i c="86" l="1737376566843" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1736889244917" />
+    </e>
+    <e n="SelectMultipleDevices">
+      <i c="4" l="1736674971690" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1736883275234" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1736882880644" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1737369223235" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="1" l="1737375530174" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1736338318602" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1736674425787" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="22" l="1736333050924" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1736779006738" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1736277775751" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="1" l="1737375690639" />
+    </e>
+    <e n="android.emulator.extended.controls">
+      <i c="2" l="1737375651183" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+      <i c="1" l="1736589580442" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.selector.SelectDeviceAction">
+      <i c="3" l="1736673439811" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="6" l="1736883559021" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ClearAction">
+      <i c="1" l="1736332862018" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="38" l="1737376010970" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="11" l="1736331996729" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1736883103449" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="18" l="1736770738476" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="7" l="1736593245569" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="82" l="1737385301198" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="13" l="1737728396840" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="29" l="1736884105237" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="2" l="1736889245229" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="28" l="1736884376202" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="18" l="1736884377686" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1736600689774" />
+    </e>
+    <e n="org.jetbrains.android.actions.CreateMultiRootResourceFileAction">
+      <i c="3" l="1736882567584" />
+    </e>
+  </component>
+</application>

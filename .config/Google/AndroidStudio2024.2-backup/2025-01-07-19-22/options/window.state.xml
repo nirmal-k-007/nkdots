@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="447" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3" y="3" width="1434" height="894" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="796" y="128" width="557" height="614" key="#HTTP_Proxy" timestamp="1736269435767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="796" y="128" width="557" height="614" key="#HTTP_Proxy/0.0.1440.900" timestamp="1736269435767" />
+    <state x="735" y="459" width="1434" height="894" key="WELCOME_SCREEN" timestamp="1736269661514">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="735" y="459" width="1434" height="894" key="WELCOME_SCREEN/0.0.1440.900" timestamp="1736269661514" />
+  </component>
+</application>

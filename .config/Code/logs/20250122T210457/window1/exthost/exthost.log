@@ -1,0 +1,58 @@
+2025-01-22 21:05:00.156 [info] Extension host with pid 4976 started
+2025-01-22 21:05:00.156 [info] Skipping acquiring lock for /home/nk/.config/Code/User/workspaceStorage/efb943bf78d0e89db2431c9ea1465542.
+2025-01-22 21:05:00.166 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-22 21:05:00.192 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-22 21:05:00.232 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-22 21:05:00.270 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-22 21:05:00.318 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-22 21:05:00.382 [info] Eager extensions activated
+2025-01-22 21:05:00.397 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-22 21:05:00.399 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-22 21:05:01.014 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.115 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.144 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.180 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.239 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.464 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2025-01-22 21:05:01.484 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+2025-01-22 21:05:01.574 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2025-01-22 21:05:03.988 [error] [redhat.java] provider FAILED
+2025-01-22 21:05:03.991 [error] Error: The request (id: 1, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066478
+	at re (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066772)
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061556
+	at Immediate.<anonymous> (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061576)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-22 21:05:08.766 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-22 21:05:08.773 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-22 21:05:08.812 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-22 21:06:22.471 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-01-22 21:20:23.009 [error] [redhat.java] provider FAILED
+2025-01-22 21:20:23.009 [error] Error: The request (id: 61, method: 'textDocument/hover') has been cancelled
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066478
+	at re (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066772)
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061556
+	at Immediate.<anonymous> (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061576)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-22 21:20:52.522 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/LaptopClient.java'
+2025-01-22 21:21:55.285 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/LaptopClient.java'
+2025-01-22 21:22:02.602 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/ChatClient.java'
+2025-01-22 21:22:33.911 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/LaptopClient.java'
+2025-01-22 21:22:39.522 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/ChatClient.java'
+2025-01-22 21:23:46.677 [error] [redhat.java] provider FAILED
+2025-01-22 21:23:46.677 [error] Error: The request (id: 412, method: 'textDocument/hover') has been cancelled
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066478
+	at re (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066772)
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061556
+	at Immediate.<anonymous> (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061576)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-22 21:24:01.442 [error] Error: ENOENT: no such file or directory, lstat '/home/nk/Documents/LaptopClient.java'
+2025-01-22 21:24:57.829 [error] [redhat.java] provider FAILED
+2025-01-22 21:24:57.829 [error] Error: The request (id: 533, method: 'textDocument/hover') has been cancelled
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066478
+	at re (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1066772)
+	at /home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061556
+	at Immediate.<anonymous> (/home/nk/.vscode/extensions/redhat.java-1.39.0-linux-x64/dist/extension.js:2:1061576)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-22 21:25:03.301 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-22 21:25:03.364 [info] Extension host with pid 4976 exiting with code 0
